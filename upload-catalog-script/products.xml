@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CatalogSchema.xsd">
+<effectiveDate>2020-09-17T05:55:04.811Z</effectiveDate>
+<catalogName>DEFAULT</catalogName>
+<currencies>
+  <currency>SAR</currency>
+  <currency>USD</currency>
+</currencies>
+<units>
+  <unit name="UsageInHours"></unit>
+</units>
+<products>
+  <product name="AVI-Networks-Load-Balancer" prettyName="CLLICVMWLBN00S00MO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-Basic" prettyName="CLLICFORFWB00S12MO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-Advance" prettyName="CLLICFORFWA00S12MO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-UTM" prettyName="CLLICFORFWU00S12MO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-Enterprise" prettyName="CLLICFORFWE00S12MO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Wordpress-Certified-by-Bitnami" prettyName="EJIFZNMY">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Publify-Certified-by-Bitnami" prettyName="SGGKRKPD">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Drupal-Certified-by-Bitnami" prettyName="JEVBVURD">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Joomla-Certified-by-Bitnami" prettyName="KINAAWQS">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Odoo-Certified-by-Bitnami" prettyName="PLHBZPES">
+    <category>STANDALONE</category>
+  </product>
+  <product name="SuiteCRM-Certified-by-Bitnami" prettyName="BYHLHGKB">
+    <category>STANDALONE</category>
+  </product>
+  <product name="LAMP-Certified-by-Bitnami" prettyName="YCFHCIRG">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Ruby-Certified-by-Bitnami" prettyName="PLFKUNBZ">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Node.JS-Certified-by-Bitnami" prettyName="DAPXADWH">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Django-Certified-by-Bitnami" prettyName="FZQWUSWS">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Kafka-Certified-by-Bitnami" prettyName="JQWZQNCP">
+    <category>STANDALONE</category>
+  </product>
+  <product name="MongoDB-Certified-by-Bitnami" prettyName="IMXMQJJL">
+    <category>STANDALONE</category>
+  </product>
+  <product name="PostgreSQL-Certified-by-Bitnami" prettyName="DBJGTRNW">
+    <category>STANDALONE</category>
+  </product>
+  <product name="MySQL-Certified-by-Bitnami" prettyName="QSWOPGXO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Redis-Certified-by-Bitnami" prettyName="VFSTVZJB">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Cassandra-Certified-by-Bitnami" prettyName="BOKUBMLP">
+    <category>STANDALONE</category>
+  </product>
+  <product name="MariaDB-Certified-by-Bitnami" prettyName="LCJKVGPZ">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Roundcube-Certified-by-Bitnami" prettyName="TMKDGSKW">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Jenkins-Certified-by-Bitnami" prettyName="BYZNOJDF">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Mantis-Certified-by-Bitnami" prettyName="VFEUIUIX">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Trac-Certified-by-Bitnami" prettyName="XEZEHVKU">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Hadoop-Certified-by-Bitnami" prettyName="OMZVLKRR">
+    <category>STANDALONE</category>
+  </product>
+  <product name="ELK-Certified-by-Bitnami" prettyName="BGQOSHGU">
+    <category>STANDALONE</category>
+  </product>
+  <product name="DokuWiki-Certified-by-Bitnami" prettyName="VRQELUII">
+    <category>STANDALONE</category>
+  </product>
+  <product name="phpBB-Certified-by-Bitnami" prettyName="FQLIFHJD">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Nginx-Open-Source-Certified-by-Bitnami" prettyName="LHSPVSBY">
+    <category>STANDALONE</category>
+  </product>
+  <product name="OpenCart-Certified-by-Bitnami" prettyName="REZJWPQF">
+    <category>STANDALONE</category>
+  </product>
+  <product name="CentOS" prettyName="YMJZEICU">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fedora" prettyName="TAKAUGPC">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Ubuntu" prettyName="XEKWYDHV">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Windows-Server" prettyName="HUZSDXQO">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Debian" prettyName="GEEXICWD">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-Basic-Free-Trial" prettyName="GLHFQNZP">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-UTM-Free-Trial" prettyName="OISPYEAZ">
+    <category>STANDALONE</category>
+  </product>
+  <product name="Fortinet-Fortigate-Enterprise-Free-Trial" prettyName="NUFOUNFL">
+    <category>STANDALONE</category>
+  </product>
+</products>
+<rules>
+  <changePolicy>
+    <changePolicyCase>
+      <policy>IMMEDIATE</policy>
+    </changePolicyCase>
+  </changePolicy>
+  <changeAlignment>
+    <changeAlignmentCase>
+      <alignment>START_OF_BUNDLE</alignment>
+    </changeAlignmentCase>
+  </changeAlignment>
+  <cancelPolicy>
+    <cancelPolicyCase>
+      <policy>IMMEDIATE</policy>
+    </cancelPolicyCase>
+  </cancelPolicy>
+  <createAlignment>
+    <createAlignmentCase>
+      <alignment>START_OF_BUNDLE</alignment>
+    </createAlignmentCase>
+  </createAlignment>
+  <billingAlignment>
+    <billingAlignmentCase>
+      <alignment>ACCOUNT</alignment>
+    </billingAlignmentCase>
+  </billingAlignment>
+  <priceList>
+    <priceListCase>
+      <toPriceList>DEFAULT</toPriceList>
+    </priceListCase>
+  </priceList>
+</rules>
+<plans>
+  <plan name="BTUGRCEH">
+    <product>AVI-Networks-Load-Balancer</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>166</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>1607.14</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="NCXKMCZR">
+    <product>Fortinet-Fortigate-Basic</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>74.67</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>611.79</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="DMXFEDSH">
+    <product>Fortinet-Fortigate-Advance</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>74.67</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>775.66</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="SSFWZNGM">
+    <product>Fortinet-Fortigate-UTM</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>74.67</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>906.76</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="PBEEFDKM">
+    <product>Fortinet-Fortigate-Enterprise</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>74.67</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>1037.86</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="AVJFWPGU">
+    <product>Wordpress-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="TADDYHDM">
+    <product>Publify-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="CVHCBBMX">
+    <product>Drupal-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="ETEDYAAZ">
+    <product>Joomla-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="GLNLRVWU">
+    <product>Odoo-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="ZXEWCETG">
+    <product>SuiteCRM-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="XVFDEBBZ">
+    <product>LAMP-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="TYYAXIIR">
+    <product>Ruby-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="DQIPZQJF">
+    <product>Node.JS-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="MFAMQNAV">
+    <product>Django-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="MKWDSJQK">
+    <product>Kafka-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="JATKLZIP">
+    <product>MongoDB-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="FRUNRDBV">
+    <product>PostgreSQL-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="GPZACLMO">
+    <product>MySQL-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="NXYSIVOB">
+    <product>Redis-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="OFOJIKZL">
+    <product>Cassandra-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="NEWLFGYS">
+    <product>MariaDB-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="UPIYPOYQ">
+    <product>Roundcube-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="ZPPIDOFW">
+    <product>Jenkins-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="OSHMVYWF">
+    <product>Mantis-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="CEQIJFCW">
+    <product>Trac-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="BLBJTQPB">
+    <product>Hadoop-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="SUOEJNWP">
+    <product>ELK-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="ONVLIAUH">
+    <product>DokuWiki-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="HVZEVFJP">
+    <product>phpBB-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="WBJRKQQL">
+    <product>Nginx-Open-Source-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="AATTDALW">
+    <product>OpenCart-Certified-by-Bitnami</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="AQRTXHSU">
+    <product>CentOS</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="KJWKYAVH">
+    <product>Fedora</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="SELOXMHF">
+    <product>Ubuntu</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="AHCTKIPO">
+    <product>Windows-Server</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0.19</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="VSKBSYEQ">
+    <product>Debian</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="DRYMLSYH">
+    <product>Fortinet-Fortigate-Basic-Free-Trial</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="JCYEIDQW">
+    <product>Fortinet-Fortigate-UTM-Free-Trial</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+  <plan name="LXFPJNYM">
+    <product>Fortinet-Fortigate-Enterprise-Free-Trial</product>
+    <recurringBillingMode>IN_ADVANCE</recurringBillingMode>
+    <finalPhase type="EVERGREEN">
+      <duration>
+        <unit>UNLIMITED</unit>
+        <number>-1</number>
+      </duration>
+      <recurring>
+        <billingPeriod>MONTHLY</billingPeriod>
+        <recurringPrice>
+          <price>
+            <currency>SAR</currency>
+            <value>0</value>
+          </price>
+          <price>
+            <currency>USD</currency>
+            <value>0</value>
+          </price>
+        </recurringPrice>
+      </recurring>
+    </finalPhase>
+    <plansAllowedInBundle>-1</plansAllowedInBundle>
+  </plan>
+</plans>
+<priceLists>
+  <defaultPriceList name="DEFAULT" prettyName="DEFAULT">
+    <plans>
+      <plan>BTUGRCEH</plan>
+      <plan>NCXKMCZR</plan>
+      <plan>DMXFEDSH</plan>
+      <plan>SSFWZNGM</plan>
+      <plan>PBEEFDKM</plan>
+      <plan>AVJFWPGU</plan>
+      <plan>TADDYHDM</plan>
+      <plan>CVHCBBMX</plan>
+      <plan>ETEDYAAZ</plan>
+      <plan>GLNLRVWU</plan>
+      <plan>ZXEWCETG</plan>
+      <plan>XVFDEBBZ</plan>
+      <plan>TYYAXIIR</plan>
+      <plan>DQIPZQJF</plan>
+      <plan>MFAMQNAV</plan>
+      <plan>MKWDSJQK</plan>
+      <plan>JATKLZIP</plan>
+      <plan>FRUNRDBV</plan>
+      <plan>GPZACLMO</plan>
+      <plan>NXYSIVOB</plan>
+      <plan>OFOJIKZL</plan>
+      <plan>NEWLFGYS</plan>
+      <plan>UPIYPOYQ</plan>
+      <plan>ZPPIDOFW</plan>
+      <plan>OSHMVYWF</plan>
+      <plan>CEQIJFCW</plan>
+      <plan>BLBJTQPB</plan>
+      <plan>SUOEJNWP</plan>
+      <plan>ONVLIAUH</plan>
+      <plan>HVZEVFJP</plan>
+      <plan>WBJRKQQL</plan>
+      <plan>AATTDALW</plan>
+      <plan>AQRTXHSU</plan>
+      <plan>KJWKYAVH</plan>
+      <plan>SELOXMHF</plan>
+      <plan>AHCTKIPO</plan>
+      <plan>VSKBSYEQ</plan>
+      <plan>DRYMLSYH</plan>
+      <plan>JCYEIDQW</plan>
+      <plan>LXFPJNYM</plan>
+    </plans>
+  </defaultPriceList>
+</priceLists>
+</catalog>
